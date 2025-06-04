@@ -1,0 +1,6 @@
+application\ProjectLocationOfCarVersion01.class
+entities\Invoice.class
+services\RentalService.class
+entities\CarRental.class
+services\BrazilTaxService.class
+entities\Vehicle.class
